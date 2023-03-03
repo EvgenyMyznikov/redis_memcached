@@ -19,16 +19,16 @@
 ### Задание 2. Memcached
 
 Установите и запустите memcached.
-![memcached status](https://github.com/EvgenyMyznikov/redis_memcached/blob/main/img_2023-02-28 115110.png?raw=true)
+![memcached status](https://github.com/EvgenyMyznikov/redis_memcached/blob/main/img_2023-02-28_115110.png?raw=true)
 
 ### Задание 3. Удаление по TTL в Memcached
 
-![memcached keys](https://github.com/EvgenyMyznikov/redis_memcached/blob/main/img_2023-03-02 170633.png?raw=true)
+![memcached keys](https://github.com/EvgenyMyznikov/redis_memcached/blob/main/img_2023-03-02_170633.png?raw=true)
 
 ### Задание 4. Запись данных в Redis
 
-![redis](https://github.com/EvgenyMyznikov/redis_memcached/blob/main/img_2023-03-03 143550.png?raw=true)
+![redis](https://github.com/EvgenyMyznikov/redis_memcached/blob/main/img_2023-03-03_143550.png?raw=true)
 
 ### Задание 5. Работа с числами
 
-![redis int](https://github.com/EvgenyMyznikov/redis_memcached/blob/main/img_2023-03-03 172240.png?raw=true)
+![redis int](https://github.com/EvgenyMyznikov/redis_memcached/blob/main/img_2023-03-03_172240.png?raw=true)
